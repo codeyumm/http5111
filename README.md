@@ -57,6 +57,6 @@ alert("Hello from script.js!");
 ```
 
 
-![meme-pic](https://tasks.brickmmo.com/images/meme-hate-love.jpeg)
+![meme-pic](_readme/web-design1-pic.jpg)
 
 
